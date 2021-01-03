@@ -1,3 +1,2 @@
-Kenneth Nordman
-
-#Kenneth 
+Page under construction.
+Contact details: cenoApps@gmail.com
