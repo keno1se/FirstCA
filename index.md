@@ -6,6 +6,8 @@
 ##### five
 ###### six
 
+{{ post }}
+
 This is a P with two spaces  
 Is on the other line?
 
