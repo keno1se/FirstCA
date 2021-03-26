@@ -8,7 +8,11 @@
 
 View latest post  
 link  
-[Go to post](https://github.com/keno1se/cenoApps/blob/gh-pages/_posts/2021-03-22-test-to-write-a-blog.md)
+
+
+
+[Go to post](_posts/2021-03-22-test-to-write-a-blog.md)
+<!-- [Go to post](https://github.com/keno1se/cenoApps/blob/gh-pages/_posts/2021-03-22-test-to-write-a-blog.md) -->
 
 
 
